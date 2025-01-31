@@ -1,0 +1,17 @@
+C:\Users\leopo\source\repos\nohup\bin\Debug\net8.0-windows\nohup.exe
+C:\Users\leopo\source\repos\nohup\bin\Debug\net8.0-windows\nohup.deps.json
+C:\Users\leopo\source\repos\nohup\bin\Debug\net8.0-windows\nohup.runtimeconfig.json
+C:\Users\leopo\source\repos\nohup\bin\Debug\net8.0-windows\nohup.dll
+C:\Users\leopo\source\repos\nohup\bin\Debug\net8.0-windows\nohup.pdb
+C:\Users\leopo\source\repos\nohup\obj\Debug\net8.0-windows\nohup.Form1.resources
+C:\Users\leopo\source\repos\nohup\obj\Debug\net8.0-windows\nohup.csproj.GenerateResource.cache
+C:\Users\leopo\source\repos\nohup\obj\Debug\net8.0-windows\nohup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopo\source\repos\nohup\obj\Debug\net8.0-windows\nohup.AssemblyInfoInputs.cache
+C:\Users\leopo\source\repos\nohup\obj\Debug\net8.0-windows\nohup.AssemblyInfo.cs
+C:\Users\leopo\source\repos\nohup\obj\Debug\net8.0-windows\nohup.csproj.CoreCompileInputs.cache
+C:\Users\leopo\source\repos\nohup\obj\Debug\net8.0-windows\nohup.sourcelink.json
+C:\Users\leopo\source\repos\nohup\obj\Debug\net8.0-windows\nohup.dll
+C:\Users\leopo\source\repos\nohup\obj\Debug\net8.0-windows\refint\nohup.dll
+C:\Users\leopo\source\repos\nohup\obj\Debug\net8.0-windows\nohup.pdb
+C:\Users\leopo\source\repos\nohup\obj\Debug\net8.0-windows\nohup.genruntimeconfig.cache
+C:\Users\leopo\source\repos\nohup\obj\Debug\net8.0-windows\ref\nohup.dll
